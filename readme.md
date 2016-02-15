@@ -4,13 +4,14 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til]().
 
-*2 TILs and counting...*
+*3 TILs and counting...*
 
 ---
 
 ### Categories
 
 * [Git](#git)
+* [Ruby](#ruby)
 * [Vim](#vim)
 
 ---
@@ -18,6 +19,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Git
 
 * [Checking Out Chunks of Changes](git/checkout-chunks-of-changes.md)
+
+### Ruby
+
+* [Open File in Default Editor From Pry](ruby/open-file-in-default-editor-from-pry.md)
 
 ### Vim
 
