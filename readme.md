@@ -4,13 +4,14 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til]().
 
-*3 TILs and counting...*
+*4 TILs and counting...*
 
 ---
 
 ### Categories
 
 * [Git](#git)
+* [Markdown](#markdown)
 * [Ruby](#ruby)
 * [Vim](#vim)
 
@@ -19,6 +20,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Git
 
 * [Checking Out Chunks of Changes](git/checkout-chunks-of-changes.md)
+
+### Markdown
+
+* [Specifying Language Highlighting for Code Snippet](markdown/specifying-language-highlighting-for-code-snippet.md)
 
 ### Ruby
 
