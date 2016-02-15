@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til]().
+A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
 *5 TILs and counting...*
 
