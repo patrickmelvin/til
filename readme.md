@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*8 TILs and counting...*
+*9 TILs and counting...*
 
 ---
 
@@ -13,6 +13,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Git](#git)
 * [Markdown](#markdown)
 * [Ruby](#ruby)
+* [SQL](#SQL)
 * [Vim](#vim)
 
 ---
@@ -32,6 +33,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Invoking Pry on an Object](ruby/invoking-pry-on-an-object.md)
 * [Open File in Default Editor From Pry](ruby/open-file-in-default-editor-from-pry.md)
 * [Open Pry Session from irb](ruby/open-pry-session-from-irb.md)
+
+### SQL
+
+* [How Joins Work](SQL/how_joins_work.md)
 
 ### Vim
 
