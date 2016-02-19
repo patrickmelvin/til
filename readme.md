@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*9 TILs and counting...*
+*10 TILs and counting...*
 
 ---
 
@@ -14,6 +14,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Markdown](#markdown)
 * [Ruby](#ruby)
 * [SQL](#SQL)
+* [Unix](#unix)
 * [Vim](#vim)
 
 ---
@@ -37,6 +38,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### SQL
 
 * [How Joins Work](SQL/how-joins-work.md)
+
+### Unix
+
+* [Kill Running Processes by Port Number](unix/kill-running-processes-by-port-number.md)
 
 ### Vim
 
