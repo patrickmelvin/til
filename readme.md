@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*6 TILs and counting...*
+*7 TILs and counting...*
 
 ---
 
@@ -28,6 +28,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Ruby
 
 * [Convert Any Variable Type to Boolean](ruby/convert-any-variable-type-to-boolean.md)
+* [Find Method in Pry](ruby/find-method-in-pry.md)
 * [Invoking Pry on an Object](ruby/invoking-pry-on-an-object.md)
 * [Open File in Default Editor From Pry](ruby/open-file-in-default-editor-from-pry.md)
 
