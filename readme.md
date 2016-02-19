@@ -36,7 +36,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 
 ### SQL
 
-* [How Joins Work](SQL/how_joins_work.md)
+* [How Joins Work](SQL/how-joins-work.md)
 
 ### Vim
 
