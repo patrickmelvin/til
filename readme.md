@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*10 TILs and counting...*
+*11 TILs and counting...*
 
 ---
 
@@ -46,3 +46,4 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Vim
 
 * [Auto Complete Lines](vim/auto-complete-lines.md)
+* [Browse and Repeat Vim Commands](vim/browse-and-repeat-vim-commands.md)
