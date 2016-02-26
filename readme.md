@@ -41,7 +41,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 
 ### Unix
 
-* [Copy File to Clipboard From Command Line](unix/cop-file-to-clipboard-from-command-line.md)
+* [Copy File to Clipboard From Command Line](unix/copy-file-to-clipboard-from-command-line.md)
 * [Kill Running Processes by Port Number](unix/kill-running-processes-by-port-number.md)
 
 ### Vim
