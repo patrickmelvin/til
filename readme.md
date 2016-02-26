@@ -13,7 +13,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Git](#git)
 * [Markdown](#markdown)
 * [Ruby](#ruby)
-* [SQL](#SQL)
+* [SQL](#sql)
 * [Unix](#unix)
 * [Vim](#vim)
 
