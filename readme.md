@@ -4,12 +4,13 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*16 TILs and counting...*
+*17 TILs and counting...*
 
 ---
 
 ### Categories
 
+* [Elixir](#elixir)
 * [Git](#git)
 * [Markdown](#markdown)
 * [Ruby](#ruby)
@@ -18,6 +19,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Vim](#vim)
 
 ---
+
+### Elixir
+
+* [Variables Bind Once Per Match](elixir/variables-bind-once-per-match.md)
 
 ### Git
 
