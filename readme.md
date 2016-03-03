@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*17 TILs and counting...*
+*18 TILs and counting...*
 
 ---
 
@@ -48,6 +48,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Unix
 
 * [Copy File to Clipboard From Command Line](unix/copy-file-to-clipboard-from-command-line.md)
+* [Grep Recursively Without Logs](unix/grep-recursively-without-logs.md)
 * [Kill Running Processes by Port Number](unix/kill-running-processes-by-port-number.md)
 * [Search Bash History](unix/search-bash-history.md)
 * [View Output With Line Numbers](unix/view-output-with-line-numbers.md)
