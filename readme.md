@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*22 TILs and counting...*
+*23 TILs and counting...*
 
 ---
 
@@ -39,6 +39,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Invoking Pry on an Object](ruby/invoking-pry-on-an-object.md)
 * [Open File in Default Editor From Pry](ruby/open-file-in-default-editor-from-pry.md)
 * [Open Pry Session from irb](ruby/open-pry-session-from-irb.md)
+* [Point to Local Gem with Bundle Config](ruby/point-to-local-gem-with-bundle-config.md)
 * [Sanitise Input with Presence_in](ruby/sanitise-input-with-presence_in.md)
 * [Show Super Methods in Pry](ruby/show-super-methods-in-pry.md)
 
