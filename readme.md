@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*25 TILs and counting...*
+*26 TILs and counting...*
 
 ---
 
@@ -13,6 +13,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Elixir](#elixir)
 * [Git](#git)
 * [Markdown](#markdown)
+* [React](#react)
 * [Ruby](#ruby)
 * [SQL](#sql)
 * [Unix](#unix)
@@ -31,6 +32,10 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 ### Markdown
 
 * [Specifying Language Highlighting for Code Snippet](markdown/specifying-language-highlighting-for-code-snippet.md)
+
+### React
+
+* [componentWillReceiveProps](react/componentWillReceiveProps.md)
 
 ### Ruby
 
