@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*24 TILs and counting...*
+*25 TILs and counting...*
 
 ---
 
@@ -53,6 +53,7 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Copy File to Clipboard From Command Line](unix/copy-file-to-clipboard-from-command-line.md)
 * [Count Appearances of a String With Grep](unix/count-appearances-of-a-string-with-grep.md)
 * [Counting Words with Word Count](unix/counting-words-with-word-count.md)
+* [Focus on all iterm Windows](unix/focus-on-all-iterm-windows.md)
 * [Grep Recursively Without Logs](unix/grep-recursively-without-logs.md)
 * [Kill Running Processes by Port Number](unix/kill-running-processes-by-port-number.md)
 * [Search Bash History](unix/search-bash-history.md)
