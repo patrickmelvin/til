@@ -4,7 +4,7 @@
 
 A collection of things I learned. Inspired by jbranchaud's project of the same name [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til).
 
-*26 TILs and counting...*
+*27 TILs and counting...*
 
 ---
 
@@ -69,4 +69,5 @@ A collection of things I learned. Inspired by jbranchaud's project of the same n
 * [Auto Complete Lines](vim/auto-complete-lines.md)
 * [Browse and Repeat Vim Commands](vim/browse-and-repeat-vim-commands.md)
 * [Recording Position with Marks](vim/recording-position-with-marks.md)
+* [Run Command in all Buffers](vim/run-command-in-all-buffers.md)
 * [Strip Trailing Whitespace](vim/strip-trailing-whitespace.md)
